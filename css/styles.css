@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    color: rgb(28, 4, 116);
+    font-size: 45px;
+
+}
+
+h2 {
+    text-align: end;
+    font-size: 30px;
+}
+
+.color {
+    color: black;
+}
+
+.contenedor {
+    background-color: rgb(209, 156, 247);
+    border: solid;
+    padding-top: 15px;
+    margin: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-size: 25px;
+
+}
+
+#Series {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
